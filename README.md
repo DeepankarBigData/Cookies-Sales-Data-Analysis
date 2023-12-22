@@ -1,5 +1,5 @@
 # Cookies Sales Analysis using Power Bi
-![Alt Text](templates/COOKIES.jpeg)
+![Alt Text](COOKIES.jpeg)
 
 Exploring the Delicious Details Behind the Numbers using Power Bi.
 
