@@ -1,7 +1,7 @@
 # Cookies Sales Analysis using Power Bi
 
-![Alt Text](tstg_cookie.jpg)
-![Alt Text](cookiegif.gif)
+![Alt Text](images/tstg_cookie.jpg)
+![Alt Text](images/cookiegif.gif)
 
 Exploring the Delicious Details Behind the Numbers using Power Bi.
 
