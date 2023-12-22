@@ -1,5 +1,5 @@
 # Cookies Sales Analysis using Power Bi
-![Alt Text](COOKIES.jpeg)
+
 ![Alt Text](tstg_cookie.jpg)
 ![Alt Text](cookiegif.gif)
 
